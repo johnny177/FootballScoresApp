@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Football Scores</string>
+    <string name="_0">0</string>
+    <string name="team_a">TEAM A</string>
+    <string name="goal">goal!!!!</string>
+    <string name="missed">MISSED</string>
+    <string name="foul">FOUL</string>
+    <string name="reset">reset</string>
+    <string name="the_match_summary">The FootBall Match  Summary</string>
+</resources>
